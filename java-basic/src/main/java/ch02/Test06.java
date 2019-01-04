@@ -20,3 +20,4 @@ public class Test06 {
     System.out.println((0.1f * 0.1f - 0.01f) <= Float.POSITIVE_INFINITY);
   }
 }
+

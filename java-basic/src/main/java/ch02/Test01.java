@@ -1,4 +1,4 @@
-
+// 리터럴(literal) - 자바 언어로 표현한 값
 package ch02;
 
 public class Test01 {
